@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  VIPER-SD
+//  ViPER
 //
-//  Created by MTPC-216 on 22/02/22.
+//  Created by Sagar Dabhi on 10/02/2022.
 //
 
 import UIKit

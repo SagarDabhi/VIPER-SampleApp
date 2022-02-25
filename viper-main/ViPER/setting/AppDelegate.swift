@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  VIPER-SD
+//  ViPER
 //
-//  Created by MTPC-216 on 22/02/22.
+//  Created by Sagar Dabhi on 10/02/2022.
 //
 
 import UIKit
@@ -10,7 +10,7 @@ import UIKit
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
+    var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
